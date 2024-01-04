@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Tatsiana
-- 👀 I’m interested in QA
-- 🌱 I’m currently learning Mobile Testing
 - 📫 How to reach me: LinkedIn
 
 <!---
